@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shreyas-NR
-- 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning Machine Learning, Embedded Operating Systems
-- 💞️ I’m looking to collaborate on BioMedical Device Developments
+- 👀 I’m interested in Embedded Systems and Product Development.
+- 🌱 I’m currently learning Machine Learning, Embedded Linux.
+- 💞️ I’m looking to collaborate on BioMedical Device Developments.
 - 📫 How to reach me nrshreyas96@gmail.com
 
 <!---
